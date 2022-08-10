@@ -1,7 +1,7 @@
-https://medium.com/@nodeswizard/node-kurulumu-hakk%C4%B1nda-her%C5%9Fey-t%C3%BCm-merak-ettikleriniz-3329413e802f
+Makaleye Linki : https://tinyurl.com/28fmwjmx
 
 
-
+-----------------------------------------------------------------
 
 
 Telegram kanallarımız ;
