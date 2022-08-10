@@ -1,4 +1,4 @@
-Makaleye Linki : https://tinyurl.com/28fmwjmx
+Makale Linki : https://tinyurl.com/28fmwjmx
 
 
 -----------------------------------------------------------------
