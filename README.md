@@ -4,15 +4,17 @@ Makale Linki : https://tinyurl.com/28fmwjmx
 -----------------------------------------------------------------
 
 
-Telegram kanallarımız ;
+Telegram kanallarımız ;
 
-Sohbet : https://t.me/nodeswizard
+Sohbet : https://t.me/nodeswizard
 
-Duyuru : https://t.me/nodeswizardduyuru
+Duyuru : https://t.me/nodeswizardduyuru
 
-Website : https://www.nodeswizard.com
+Website : https://www.nodeswizard.com
 
-Twitter : https://twitter.com/NodesWizard
+Twitter : https://twitter.com/NodesWizard
+
+Github : https://github.com/NodesWizard
 
 
 
