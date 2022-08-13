@@ -1,4 +1,4 @@
-<p>Videoda &Ouml;rnek node kurulumuda yaptık izlemek isterseniz <a href="https://youtu.be/LrJvtA90PUE">TIKLA</a></p>
+<h3>Videoda &Ouml;rnek node kurulumuda yaptık izlemek isterseniz <a href="https://youtu.be/LrJvtA90PUE">TIKLA</a></h3>
 
 <p><strong>1 &mdash;Node Kurmak Ne kadar zor ?</strong></p>
 
